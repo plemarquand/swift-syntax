@@ -75,7 +75,7 @@ without a paired change to that repository.
 
 [SyntaxSupport]: https://github.com/swiftlang/swift-syntax/tree/main/CodeGeneration/Sources/SyntaxSupport
 [swift-stress-tester]: https://github.com/swiftlang/swift-stress-tester
-[ParserBasics]: https://github.com/swiftlang/swift-syntax/tree/main/Sources/SwiftParser/SwiftParser.docc/ParsingBasics.md
+[ParserBasics]: https://github.com/swiftlang/swift-syntax/blob/main/Contributor%20Documentation/Parsing%20Basics.md
 
 @Comment {
   When docc resolves https://github.com/apple/swift-docc/issues/255, `ParserBasic` should be an inter-target link.
